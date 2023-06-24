@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="75" height="80" viewBox="0 0 75 80">
+  <g id="Home" transform="translate(0 -732)">
+    <rect id="Rectangle_460" data-name="Rectangle 460" width="75" height="80" transform="translate(0 732)" fill="rgba(255,255,255,0)"/>
+    <path id="home_5_" data-name="home (5)" d="M23.619,10.849,12.519.208a.75.75,0,0,0-1.038,0L.37,10.86a1.267,1.267,0,0,0-.37.89A1.252,1.252,0,0,0,1.25,13H3v9a2,2,0,0,0,2,2H19a2,2,0,0,0,2-2V13h1.75A1.252,1.252,0,0,0,24,11.75a1.277,1.277,0,0,0-.381-.9Zm0,0" transform="translate(26 752)" fill="#f3d73e" stroke="#3a1803" stroke-width="1"/>
+    <text id="Home-2" data-name="Home" transform="translate(38 789)" fill="#f3d73e" font-size="10" font-family="Roboto-Regular, Roboto"><tspan x="-13.447" y="0">Home</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,12 @@
+<svg id="Task_Completed" data-name="Task Completed" xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <g id="Ellipse_2" data-name="Ellipse 2" fill="#f3d73e" stroke="#3a1803" stroke-width="1">
+    <circle cx="20" cy="20" r="20" stroke="none" />
+    <circle cx="20" cy="20" r="19.5" fill="none" />
+  </g>
+  <g id="Ellipse_3" data-name="Ellipse 3" transform="translate(2 2)" fill="#554434" stroke="#3a1803" stroke-width="1">
+    <circle cx="18" cy="18" r="18" stroke="none" />
+    <circle cx="18" cy="18" r="17.5" fill="none" />
+  </g>
+  <path id="Rectangle_457" data-name="Rectangle 457" d="M0,0H36a0,0,0,0,1,0,0V0A18,18,0,0,1,18,18h0A18,18,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(2 20)" fill="#3a1803" opacity="0.3" />
+  <path id="Icon_awesome-check" data-name="Icon awesome-check" d="M7.472,20.263.322,13.29a1.054,1.054,0,0,1,0-1.517l1.556-1.517a1.12,1.12,0,0,1,1.556,0l4.817,4.7L18.567,4.891a1.12,1.12,0,0,1,1.556,0l1.556,1.517a1.054,1.054,0,0,1,0,1.517L9.028,20.263A1.12,1.12,0,0,1,7.472,20.263Z" transform="translate(9 7.423)" fill="#fff" stroke="#3a1803" stroke-width="1" />
+</svg>

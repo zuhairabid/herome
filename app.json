@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "HeroMeRN",
-    "slug": "HeroMeRN",
+    "name": "heromern",
+    "slug": "heromern",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -21,10 +21,16 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.zuhairabid.heromern"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "076d9459-1215-4abf-b3ee-9bf5198569e9"
+      }
     }
   }
 }

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="75" height="80" viewBox="0 0 75 80">
+  <g id="Task" transform="translate(0 -732)">
+    <rect id="Rectangle_460" data-name="Rectangle 460" width="75" height="80" transform="translate(0 732)" fill="rgba(255,255,255,0)"/>
+    <g id="clipboard" transform="translate(5.667 752)">
+      <g id="Group_183" data-name="Group 183" transform="translate(21.333)">
+        <path id="Path_1353" data-name="Path 1353" d="M40.889,2.4H35.774a3.666,3.666,0,0,0-6.881,0H23.777a2.422,2.422,0,0,0-2.444,2.4V21.6A2.422,2.422,0,0,0,23.777,24H40.889a2.422,2.422,0,0,0,2.444-2.4V4.8A2.422,2.422,0,0,0,40.889,2.4Zm-8.556,0a1.2,1.2,0,1,1-1.222,1.2A1.211,1.211,0,0,1,32.333,2.4ZM29.889,19.2,25,14.4l1.729-1.7,3.159,3.1,8.048-7.9,1.729,1.7Z" transform="translate(-21.333)" fill="#3a1803"/>
+      </g>
+    </g>
+    <text id="Tasks" transform="translate(38 789)" fill="#3a1803" font-size="10" font-family="Roboto-Regular, Roboto"><tspan x="-13.118" y="0">Tasks</tspan></text>
+  </g>
+</svg>
